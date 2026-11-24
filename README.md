@@ -1,2 +1,3 @@
-# forge-qualification-sandbox
-Synthetic sandbox for Forge agent qualification runs (temporary)
+# Forge Qualification Sandbox
+
+Synthetic target for Forge agent runs.
